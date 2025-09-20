@@ -4,4 +4,4 @@
 format: jb-book
 root: README
 chapters:
-  - file: 01-working-with-published-data
+  - file: content/01-working-with-published-data/01-working-with-published-data
